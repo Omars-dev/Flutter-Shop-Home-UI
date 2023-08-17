@@ -235,7 +235,9 @@ class _HomePageState extends State<HomePage> {
               return Container(
                 width: 100,
                 decoration: BoxDecoration(
-                    color: categories[index].boxColor.withOpacity(0.3)),
+                    color: categories[index].boxColor.withOpacity(0.3),
+                    borderRadius: BorderRadius.circular(10)
+                ),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
