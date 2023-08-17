@@ -40,6 +40,17 @@ class PopularDietsModel {
         )
     );
 
+    popularDiets.add(
+        PopularDietsModel(
+          name: 'Rui Fry',
+          iconPath: 'assets/icons/salmon-nigiri.svg',
+          level: 'Easy',
+          duration: '20mins',
+          calorie: '120kCal',
+          boxIsSelected: false,
+        )
+    );
+
     return popularDiets;
   }
 }
