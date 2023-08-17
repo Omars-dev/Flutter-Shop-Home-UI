@@ -16,26 +16,32 @@ class CategoryModel {
     List<CategoryModel> categories = [];
 
     categories.add(CategoryModel(
-        name: 'Salad',
-        iconPath: 'assets/icons/plate.svg',
+        name: 'Honey',
+        iconPath: 'assets/img/raw_honey.png',
         boxColor: const Color(0xFF92A3FD)
     ));
 
     categories.add(CategoryModel(
-        name: 'Cake',
-        iconPath: 'assets/icons/pancakes.svg',
-        boxColor: const Color(0xFFC58BF2)
+        name: 'Bee Box',
+        iconPath: 'assets/img/bee_box.png',
+        boxColor: const Color(0xFFff8c04)
     ));
 
     categories.add(CategoryModel(
-        name: 'Pie',
-        iconPath: 'assets/icons/pie.svg',
+        name: 'Pollen',
+        iconPath: 'assets/img/mustard_pollen.png',
         boxColor: const Color(0xFF92A3FD)
     ));
 
     categories.add(CategoryModel(
-        name: 'Smoothies',
-        iconPath: 'assets/icons/orange_snacks.svg',
+        name: 'Smoker',
+        iconPath: 'assets/img/smoker.png',
+        boxColor: const Color(0xFFff8c04)
+    ));
+
+    categories.add(CategoryModel(
+        name: 'Hand Made',
+        iconPath: 'assets/img/single_hand_fan.png',
         boxColor: const Color(0xFFC58BF2)
     ));
 
