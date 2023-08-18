@@ -66,6 +66,24 @@ class HoneyModel {
         viewIsSelected: false,
         boxColor: const Color(0xff9DCEFF)));
 
+    diets.add(HoneyModel(
+        name: 'Hand Made Fan',
+        iconPath: 'assets/img/single_hand_fan.png',
+        level: '🧵',
+        duration: '1 Pack',
+        calorie: '250 BDT',
+        viewIsSelected: false,
+        boxColor: const Color(0xff9DCEFF)));
+
+    diets.add(HoneyModel(
+        name: 'Honey Box',
+        iconPath: 'assets/img/bee_box.png',
+        level: '1 Box',
+        duration: '5 Frame',
+        calorie: '6500 BDT',
+        viewIsSelected: false,
+        boxColor: const Color(0xff9DCEFF)));
+
     return diets;
   }
 }
