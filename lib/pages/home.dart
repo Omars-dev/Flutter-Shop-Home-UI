@@ -309,6 +309,7 @@ class _HomePageState extends State<HomePage> {
           const SizedBox(height: 25),
           padding: const EdgeInsets.only(left: 20, right: 20),
           itemCount: popularDiets.length,
+          scrollDirection: Axis.vertical,
           shrinkWrap: true,
           itemBuilder: (context, index) {
             return Container(

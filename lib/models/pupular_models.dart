@@ -31,6 +31,28 @@ class PopularDietsModel {
 
     popularDiets.add(
         PopularDietsModel(
+          name: 'Mustard Honey',
+          iconPath: 'assets/img/mustard_honey.png',
+          level: 'Raw',
+          duration: '500gm',
+          calorie: '300 BDT',
+          boxIsSelected: true,
+        )
+    );
+
+    popularDiets.add(
+        PopularDietsModel(
+          name: 'Sundarban Honey',
+          iconPath: 'assets/img/raw_honey.png',
+          level: 'Raw',
+          duration: '500gm',
+          calorie: '300 BDT',
+          boxIsSelected: true,
+        )
+    );
+
+    popularDiets.add(
+        PopularDietsModel(
           name: 'Hand Made Fan',
           iconPath: 'assets/img/single_hand_fan.png',
           level: '🧵',
@@ -55,6 +77,28 @@ class PopularDietsModel {
         PopularDietsModel(
           name: 'Bee Pollen',
           iconPath: 'assets/img/mustard_pollen.png',
+          level: 'Raw',
+          duration: '100gm',
+          calorie: '800 BDT',
+          boxIsSelected: true,
+        )
+    );
+
+    popularDiets.add(
+        PopularDietsModel(
+          name: 'Honey Box',
+          iconPath: 'assets/img/bee_box.png',
+          level: '1 Box',
+          duration: '5 Frames',
+          calorie: '6500 BDT',
+          boxIsSelected: true,
+        )
+    );
+
+    popularDiets.add(
+        PopularDietsModel(
+          name: 'Mustard Flower Pollen',
+          iconPath: 'assets/img/bee_pollen.png',
           level: 'Raw',
           duration: '100gm',
           calorie: '800 BDT',
