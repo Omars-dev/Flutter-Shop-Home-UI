@@ -17,7 +17,7 @@ Whats you can learn from this Repo -
             <img src="screenshots/1.jpg" width="300" />
          </td>
          <td style="text-align: center">
-            <img src="screenshots/MM_HONEY_SS.gif" width="300" />
+            <img src="screenshots/demo-video.gif" width="300" />
          </td>
       </tr>
    </table>
