@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
           //   width: 20,
           //   height: 20,
           // ),
-          child: const Icon(Icons.menu,size: 20,color: Colors.black87,),
+          child: const Icon(Icons.menu,size: 20,color: Colors.black,),
         ),
       ),
       actions: [
