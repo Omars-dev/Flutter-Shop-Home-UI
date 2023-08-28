@@ -1,16 +1,25 @@
-# shop_home_ui
+# Flutter Honey Shop UI
 
-A new Flutter project.
+Slivers in Flutter - Efficient and Fancy Scrolling Experience. Learn one of the scariest topics in Flutter - what is sliver and how to make use of it to make an elegant scroll view.
 
-## Getting Started
+Whats you can learn from this Repo - 
+- Custom appBar and how to customize default Appbar.
+- Custom search bar and customize default Textfield.
+- Learn about ListView and create model for data
+- ListView horizontal and vertical scrolling effect
+- ListView.Separeted
 
-This project is a starting point for a Flutter application.
+## Preview
+<div style="text-align: center">
+   <table>
+      <tr>
+         <td style="text-align: center">
+            <img src="screenshots/1.jpg" width="300" />
+         </td>
+         <td style="text-align: center">
+            <img src="screenshots/MM_HONEY_SS.gif" width="300" />
+         </td>
+      </tr>
+   </table>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
