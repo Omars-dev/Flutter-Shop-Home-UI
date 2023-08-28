@@ -69,21 +69,12 @@ class _HomePageState extends State<HomePage> {
           decoration: BoxDecoration(
               color: const Color(0xFFF7F8F8),
               borderRadius: BorderRadius.circular(10.0)),
-<<<<<<< HEAD
           child: SvgPicture.asset(
             'assets/icons/Arrow - Left 2.svg',
             width: 20,
             height: 20,
           ),
           // child: const Icon(Icons.menu,size: 20,color: Colors.black,),
-=======
-          // child: SvgPicture.asset(
-          //   'assets/icons/Arrow - Left 2.svg',
-          //   width: 20,
-          //   height: 20,
-          // ),
-          child: const Icon(Icons.menu,size: 20,color: Colors.black87,),
->>>>>>> origin
         ),
       ),
       actions: [
