@@ -10,16 +10,5 @@ Whats you can learn from this Repo -
 - ListView.Separeted
 
 ## Preview
-<div style="text-align: center">
-   <table>
-      <tr>
-         <td style="text-align: center">
-            <img src="screenshots/1.jpg" width="200" />
-         </td>
-         <td style="text-align: center">
-            <img src="screenshots/video.gif" width="200" />
-         </td>
-      </tr>
-   </table>
-</div>
+
 
