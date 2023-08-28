@@ -14,10 +14,10 @@ Whats you can learn from this Repo -
    <table>
       <tr>
          <td style="text-align: center">
-            <img src="screenshots/1.jpg" width="300" />
+            <img src="screenshots/1.jpg" width="220" />
          </td>
          <td style="text-align: center">
-            <img src="screenshots/demo-video.gif" width="300" />
+            <img src="screenshots/demo-video.gif" width="220" />
          </td>
       </tr>
    </table>
