@@ -10,5 +10,16 @@ Whats you can learn from this Repo -
 - ListView.Separeted
 
 ## Preview
-![1](https://github.com/Omars-dev/Flutter-Shop-Home-UI/assets/42688689/0dc9e08e-2fbb-4d1f-96c8-807eb76617b4)  https://github.com/Omars-dev/Flutter-Shop-Home-UI/assets/42688689/f948b9b3-9dd1-4187-a3ef-7839cb3a22c3
+<div style="text-align: center">
+   <table>
+      <tr>
+         <td style="text-align: center">
+            <img src="screenshots/1.jpg" width="200" />
+         </td>
+         <td style="text-align: center">
+            <img src="screenshots/video.gif" width="200" />
+         </td>
+      </tr>
+   </table>
+</div>
 
