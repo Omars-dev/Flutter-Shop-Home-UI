@@ -1,6 +1,6 @@
 # Flutter Honey Shop UI
 
-Slivers in Flutter - Efficient and Fancy Scrolling Experience. Learn one of the scariest topics in Flutter - what is sliver and how to make use of it to make an elegant scroll view.
+ListView in Flutter - Efficient and Fancy Scrolling Experience. Learn one of the scariest topics in Flutter - what is ListView and how to make use of it to make an elegant list view.
 
 Whats you can learn from this Repo - 
 - Custom appBar and how to customize default Appbar.
